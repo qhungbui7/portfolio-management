@@ -1,2 +1,3 @@
-# portfolio_management
-notebook will be updated later
+# Portfolio Management
+Reinforcement learning 
+Notebook will be updated later
