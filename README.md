@@ -1,3 +1,4 @@
 # Portfolio Management
-Reinforcement learning 
+Reinforcement Learning, Actor Critic approaching.  
 Notebook will be updated later
+
